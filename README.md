@@ -1,11 +1,22 @@
-### About Me & Portfolio
+# Hi , I'm Hemasri S 👋
 
-Welcome! I am **Hemasri S**, an **Artificial Intelligence and Data Science** student at V.S.B College of Engineering Technical Campus (CGPA: 8.6). 
+An **AI and Data Science student** passionate about web development, data analytics, and building AI-driven solutions.
 
-This portfolio showcases my technical projects, software engineering capabilities, and professional journey across **AI/ML, Data Analytics, Web Development, Cloud, and Cybersecurity**.
+### 🔭 What I'm working on
+- 🤖 **Ticket Priority Predictor:** LLM-based support ticket priority classifier *(3rd Prize at InnoSpark'25)*
+- 🥗 **Food Sharing Alert System:** Web app reducing surplus food waste
+- 🚦 **Smart Traffic Management:** IEEE Published Patent co-author
 
-**Key Highlights:**
-- 📜 **IEEE Published Patent:** Co-author of *Smart Traffic Management System for Urban Congestion*
-- 🏆 **InnoSpark'25 3rd Prize:** Created an LLM-based *Ticket Priority Predictor* (improving triaging efficiency by 75%)
-- 🛡️ **Industry Experience:** Cybersecurity Analyst Intern at **TATA** & ServiceNow Intern at **ServiceNow University**
-- ☁️ **Certifications:** AWS Cloud Practitioner Essentials, NPTEL Cloud Computing (Elite), Infosys Prompt Engineering, Data Analytics, and Java
+### 🛠️ Skills & Technologies
+- **Languages:** Python, Java, SQL
+- **Web Technologies:** HTML5, CSS3, JavaScript
+- **AI & Cloud:** LLMs, Prompt Engineering, AWS Cloud Practitioner Essentials, ServiceNow (Agentic AI, ATF, Flows)
+- **Tools & Version Control:** Git, GitHub
+
+### 💼 Experience
+- 🛡️ **Cybersecurity Analyst Intern** @ TATA
+- ⚙️ **ServiceNow Intern** @ ServiceNow University
+
+### 📫 How to reach me
+- **LinkedIn:** [linkedin.com/in/hemasri-s-4b3374359](https://linkedin.com/in/hemasri-s-4b3374359)
+- **Email:** [hemasrisudhakar@gmail.com](mailto:hemasrisudhakar@gmail.com)
