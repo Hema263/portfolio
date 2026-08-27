@@ -1,8 +1,8 @@
-# Hi , I'm Hemasri S 👋
+# Hi , I'm Hemasri S 
 
 An **AI and Data Science student** passionate about web development, data analytics, and building AI-driven solutions.
 
-### 🔭 What I'm working on
+### 🔭 I'm working on
 - 🤖 **Ticket Priority Predictor:** LLM-based support ticket priority classifier *(3rd Prize at InnoSpark'25)*
 - 🥗 **Food Sharing Alert System:** Web app reducing surplus food waste
 - 🚦 **Smart Traffic Management:** IEEE Published Patent co-author
@@ -17,6 +17,6 @@ An **AI and Data Science student** passionate about web development, data analyt
 - 🛡️ **Cybersecurity Analyst Intern** @ TATA
 - ⚙️ **ServiceNow Intern** @ ServiceNow University
 
-### 📫 How to reach me
+### 📫 Reach me through
 - **LinkedIn:** [linkedin.com/in/hemasri-s-4b3374359](https://linkedin.com/in/hemasri-s-4b3374359)
 - **Email:** [hemasrisudhakar@gmail.com](mailto:hemasrisudhakar@gmail.com)
