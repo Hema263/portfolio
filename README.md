@@ -1,4 +1,4 @@
-# Hi there, I'm Hemasri S
+# Hi, I'm Hemasri S
 
 An **AI and Data Science student** passionate about web development, data analytics, and building AI-driven solutions.
 
