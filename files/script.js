@@ -86,15 +86,6 @@ const revealObserver = new IntersectionObserver((entries) => {
 
 revealTargets.forEach(el => revealObserver.observe(el));
 
-/* ---------- Patent link: no external URL on file, point to Achievements ---------- */
-const patentLink = document.getElementById('patentLink');
-if (patentLink) {
-  patentLink.addEventListener('click', (e) => {
-    e.preventDefault();
-    document.getElementById('cert-achieve').scrollIntoView({ behavior: 'smooth' });
-  });
-}
-
 /* ---------- Hero node network canvas ----------
    A quiet, ambient network graph: nodes drift and link when close,
    echoing both "adaptive trust" scoring and traffic-grid signal flow. */
