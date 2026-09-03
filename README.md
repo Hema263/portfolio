@@ -17,20 +17,6 @@
 
 </div>
 
----
-
-## 🚀 About This Portfolio
-
-A sleek, **fully responsive** personal portfolio website built with **HTML, CSS & JavaScript** — featuring:
-
-- 🎯 **Custom Cursor** — Animated dot-and-ring cursor for a premium feel
-- ✍️ **Typed.js** — Dynamic role-typing animations in the hero section
-- 📜 **ScrollReveal.js** — Smooth reveal animations on scroll
-- 📱 **Mobile-First Design** — Hamburger nav & responsive layouts
-- 🟣 **Glassmorphism Aesthetic** — Purple-accented dark theme with glowing effects
-- ⚡ **Sticky Header** — Smart navbar that adapts while scrolling
-
----
 
 ## 🛠️ Tech Stack
 
@@ -41,25 +27,11 @@ A sleek, **fully responsive** personal portfolio website built with **HTML, CSS 
 | **Structure** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | **Styling** | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Logic** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Animations** | ![ScrollReveal](https://img.shields.io/badge/ScrollReveal.js-blueviolet?style=flat-square) ![Typed.js](https://img.shields.io/badge/Typed.js-purple?style=flat-square) |
-| **Icons** | ![FontAwesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=flat-square&logo=fontawesome&logoColor=white) |
-| **Fonts** | ![Google Fonts](https://img.shields.io/badge/Outfit_(Google_Fonts)-4285F4?style=flat-square&logo=google&logoColor=white) |
 
 </div>
 
 ---
 
-## 📂 Project Structure
-
-```
-Portfolio/
-├── index.html       # Main HTML — sections: Home, About, Projects, Contact
-├── style.css        # Dark glassmorphism theme, animations & responsive layout
-├── script.js        # Scroll-reveal, typed.js, sticky nav & mobile menu logic
-└── README.md        # You are here 👋
-```
-
----
 
 ## 🏆 Featured Projects
 
@@ -83,7 +55,6 @@ A **real-time web platform** connecting surplus food donors with recipients, tac
 ---
 
 ### 🚦 Smart Traffic Management System
-> *📄 IEEE Published Patent*
 
 An **intelligent, data-driven traffic control system** designed to dynamically reduce urban congestion.
 - Awarded an **IEEE Published Patent**
@@ -97,7 +68,7 @@ An **intelligent, data-driven traffic control system** designed to dynamically r
 |---|---|
 | 📊 CGPA | **8.6** |
 | 💼 Internships | TATA *(Cybersecurity Analyst)* · ServiceNow |
-| 📜 Patent | IEEE Published — Smart Traffic Management |
+| 📜 Patent | Smart Traffic Management |
 | 💡 Skills | Python · Java · SQL · LLMs · Web Development |
 | 📍 Contact | hemasrisudhakar@gmail.com · +91 63823 09569 |
 
@@ -111,24 +82,6 @@ An **intelligent, data-driven traffic control system** designed to dynamically r
 | 2 | **About** | Academic background, skills & internship highlights |
 | 3 | **Projects** | Showcases 3 featured AI & web projects |
 | 4 | **Contact** | Email-linked contact form |
-
----
-
-## ⚙️ Run Locally
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/Hema263/portfolio.git
-
-# 2. Navigate into the folder
-cd portfolio
-
-# 3. Open in browser
-# Simply open index.html in your preferred browser
-# Or use Live Server (VS Code extension) for the best experience
-```
-
-> **Tip:** Use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) VS Code extension for hot-reload while editing.
 
 ---
 
